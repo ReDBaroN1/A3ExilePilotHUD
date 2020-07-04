@@ -19,7 +19,7 @@ class PilotHUD
 			style = 0x00;
 			lineSpacing = 1;
 			idc = 2395;
-			text = ""; //--- ToDo: Localize;
+			text = "";
 			x = safeZoneX + safeZoneW * 0.87011719;
 			y = safeZoneY + safeZoneH * 0.00694445;
 			w = safeZoneW * 0.125;
@@ -27,24 +27,19 @@ class PilotHUD
 			size = 0.020;
 			colorText[] = {1,1,1,1};
 			colorBackground[] = {0,0,0,0.5};
-			font = "PuristaSemiBold";
+			font = "OrbitronLight";
 			
 			class Attributes
 			{
-				font = "PuristaSemiBold";
+				font = "OrbitronLight";
 				color = "#ffffff";
 				align = "CENTER";
 				valign = "middle";
 				shadow = false;
 				shadowColor = "#000000";
 				underline = false;
-				size = "2";
+				size = "1";
 			}; 
 		};
 	};
 };
-	
-		
-		
-		
-		

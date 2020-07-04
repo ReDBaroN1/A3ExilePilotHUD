@@ -1,4 +1,5 @@
 class RscTitles
 {
+	// Hud
 	#include "custom\PilotHUD\dialog.hpp"
 };

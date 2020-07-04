@@ -1,1 +1,2 @@
-[] execVM "custom\PilotHUD\init.sqf";
+// hud
+0 execVM "custom\PilotHUD\init.sqf";
